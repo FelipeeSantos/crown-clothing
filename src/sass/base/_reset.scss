@@ -115,7 +115,7 @@ section {
 body {
   line-height: 1;
   text-rendering: optimizeLegibility !important;
-  -webkit-font-smothing: antialiased !important;
+  -webkit-font-smoothing: antialiased !important;
 }
 
 ol,
