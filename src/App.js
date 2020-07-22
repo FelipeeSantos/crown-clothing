@@ -4,7 +4,6 @@ import { connect } from "react-redux";
 import "./sass/base/_reset.scss";
 import "./sass/base/_base.scss";
 import "./sass/base/_typography.scss";
-
 import HomePage from "./pages/homepage/homepage";
 import ShopPage from "./pages/shop/shop";
 import SignInAndSignUpPage from "./pages/sign-in-and-sign-up/sign-in-and-sign-up";
