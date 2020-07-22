@@ -1,5 +1,6 @@
 const CartActionTypes = {
-  toggleCartHidden: "toggleCartHidden"
+  toggleCartHidden: "toggleCartHidden",
+  addItem: "addItem",
 };
 
 export default CartActionTypes;
